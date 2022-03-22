@@ -6,3 +6,5 @@ Note we are still at prototyping phase but we will post the files as soon as the
 We will start a crowdfunding campaign at www.crowdsupply.com soon. Please be patient.
 You are watching the birth of this project in real time. Do not ask to see what has not yet been made. Just watch and be patient.
 
+
+https://github.com/ccadic/S2D2Watch/blob/main/yeahhh10.jpg
